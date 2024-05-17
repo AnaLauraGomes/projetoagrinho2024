@@ -1,0 +1,10 @@
+.cabeçalho{background-color: #795329; color: white; display: flex; justify-content: space-around;}
+.imagem-logo{width: 20%;}
+.cabeçalho-lista{display: inline-block; margin: 0 16px;}
+.site{background-color:white; color: rgb(131, 92, 48);}
+.imagem-comida{width:  180px; height: 130px;}
+.rodape{background-color: #795329; color:white; display: flex; justify-content:space-around;}
+.comida-div{display: inline-block;}
+.comida{text-align: center; font-weight: 700; font-size: 20px;}
+.comida{text-align: center;}
+.pães-paopao{width:  750px; height: 500px;}
